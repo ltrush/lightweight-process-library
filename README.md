@@ -41,7 +41,7 @@ The following were provided as course materials and/or starter code (and may be 
 - Assignment spec `asgn2.pdf`
 - `src/magic64.S`
 - `src/fp.h`
-- Headers in `include/` (e.g., `include/lwp.h`, `include/fp.h`, `include/schedulers.h`, `include/util.h`, `include/snakes.h`)
+- Headers in `include/` (e.g., `include/lwp.h`, `include/fp.h`)
 - `src/lwp.h`
 
 ## Attribution
